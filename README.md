@@ -14,7 +14,7 @@ public void Config()
 }
 ```
 
-# 🎁�Beautiful design
+# 🎁Beautiful design
 This source is only designed to build crackers that make your job easier😉
 
 # ✅ Example source. Download and use
